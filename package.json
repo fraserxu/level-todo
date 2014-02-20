@@ -1,0 +1,23 @@
+{
+  "name": "level-todo",
+  "version": "0.0.0",
+  "description": "A simple todo-list app using leveldb",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fraserxu/level-todo.git"
+  },
+  "keywords": [
+    "todolist",
+    "leveldb",
+    "cli"
+  ],
+  "author": "fraserxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraserxu/level-todo/issues"
+  }
+}
