@@ -1,0 +1,16 @@
+usage:
+
+  todo add CONTENT {-l LABEL}
+    Add a new list. Optionally give a LABEL.
+
+  todo rm ID
+    Remove a list by the given ID.
+
+  todo done ID
+    Mark a list as done by the given ID.
+
+  todo list {-l LABEL -s TYPE}
+    Show all the todo list, filter by LABEL, sort by TYPE(time, status).
+
+  todo destroy
+    Clear all the list.
